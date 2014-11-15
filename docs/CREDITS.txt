@@ -1,0 +1,36 @@
+/**
+*
+* @copyright John Wong 2006-2014
+*  john.innovation@yahoo.com.au
+*
+* timeanalyze is free software. You can redistribute it and/or modify it
+* under the terms of the GNU General Public License, version 2 (GPL-2.0)
+* as published by the Free Software Foundation.
+*
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+* GNU General Public License for more details.
+*
+* A copy of the license can be viewed in the docs/LICENSE.txt file.
+* The same can be viewed at <http://opensource.org/licenses/gpl-2.0.php>
+*
+*/
+
+
+Timeanalyze Developer:    John Wong
+
+For a list of Timeanalyze Team members, please see:
+https://github.com/John-innovation-au/
+
+For a full list of Timeanalyze code contributors, please see:
+https://github.com/John-innovation-au/
+
+
+-- Copyrights --
+
+Visual Confirmation:   John Wong
+
+TimeAnalyze contains code from the following applications:
+
+NONE
